@@ -1,37 +1,66 @@
-Welcome to Sanjay KC's GitHub Profile!
+<h1 align="center">🚀 Sanjay KC | Java & Spring Boot Developer</h1>
 
-About Me
-🎓 I’m an undergraduate student in Electronics and Communication Engineering (7th semester).
-💻 Passionate about software development, DevOps, and problem-solving.
-🌟 Focused on building innovative projects that combine hardware and software solutions.
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200" alt="Coding GIF">
+</p>
 
-Skills
-Programming Languages: Java, Python, C
-Frameworks and Tools:
-Java Spring Framework
-Maven for builds
-DevOps Tools: Docker, Jenkins, and Git
-Android Development:
-Proficient in building basic Android apps in Android Studio.
-Developed apps like To-Do List, Math Game, and Number Guessing Game.
-Electronics Projects:
-Expertise in working with microcontrollers and IoT.
+<p align="center">
+  Passionate about **Spring Boot, Microservices, AI, and DevOps** | Building Scalable Applications 🚀
+</p>
 
-Featured Projects
-🔒 Women Safety Jacket
-A wearable safety device integrated with smart sensors and emergency alert systems, ensuring quick assistance in critical situations.
-Tech Stack: Embedded systems, IoT, and GSM module integration.
+---
 
-📱 Android Applications
-Built interactive and functional Android apps during self-paced Udemy courses.
+## 👨‍💻 About Me  
 
-To-Do List App: Helps users manage daily tasks.
-Math Game: A fun game for solving arithmetic challenges.
-Number Guessing Game: Simple and entertaining guessing game.
-🤖 Smart Blind Stick (Research Project)
-Designed a smart assistive device for visually impaired individuals, incorporating ultrasonic sensors and vibration feedback for obstacle detection.
+- 🔥 Java & Spring Boot Enthusiast  
+- 🤖 Building an **AI Chatbot** using **Google Gemini API**  
+- 🎬 Developing a **Netflix-like App** with **Google Drive API**  
+- 💡 Always learning & exploring new technologies  
 
-Current Learning Journey
-🚀 Exploring Java Spring Framework to build scalable backend systems.
+---
+
+## 🚀 Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Microservices-007396?style=for-the-badge&logo=microservices&logoColor=white">
+  <img src="https://img.shields.io/badge/REST%20API-00ADD8?style=for-the-badge&logo=rest&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/CI%2FCD-FF9900?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+---
+
+## 🏆 Projects  
+
+| 🚀 Project Name  | 🔥 Technologies Used  | 🌟 Description |
+|---|---|---|
+| **AI Chatbot**  | Spring Boot, Google Gemini API  | AI-powered chatbot with smart responses  |
+| **Netflix Clone**  | Spring Boot, Google Drive API  | Movie streaming platform with secure authentication  |
+| **Women Safety Jacket**  | IoT, Embedded Systems  | A safety device for women with emergency alert system  |
+| **Android Apps**  | Java, Android Studio  | To-Do List, Math Game, Number Guessing Game  |
+
+---
+
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjay0001748&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+---
+
+## 💬 Let's Connect!  
+<p align="center">
+  <a href="mailto:sanjaykcarya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sanjay-kc-10b004216/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://sanjay0001748.github.io/Portfolio/Sanjay_KC_Portfolio.html"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"></a>
+</p>
+
+<p align="center">
+  🚀 **Let's build something awesome together!**  
+</p>
+
+
+
 
 
